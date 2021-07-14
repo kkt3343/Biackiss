@@ -1,0 +1,5 @@
+C:\Users\KT\Desktop\Games\aaa\비아키스.exe
+C:\Users\KT\Desktop\Games\aaa\비아키스.dll
+C:\Users\KT\Desktop\Games\aaa\비아키스.deps.json
+C:\Users\KT\Desktop\Games\aaa\비아키스.runtimeconfig.json
+C:\Users\KT\Desktop\Games\aaa\비아키스.pdb
